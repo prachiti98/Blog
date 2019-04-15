@@ -1,0 +1,16 @@
+{
+  "name": "startproj",
+  "version": "1.0.0",
+  "description": "simple knowledge based app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Prachiti",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "pug": "^2.0.3"
+  }
+}
